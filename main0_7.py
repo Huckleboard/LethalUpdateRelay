@@ -259,7 +259,7 @@ def show_transmit_popup():
     custom_loading_bar(loading_label, subtext_label, net_speed_label, popup_active, duration=10)
 
     def close_popup_and_send_message():
-        webhook_url = "https://discord.com/api/webhooks/1195930948294938791/H6ho0exUqlSiPqUH1yxanB7R5yKinkpvUK1iUhfzWB5qW2fV1OiwWethrzekGkKwRjfo"
+        webhook_url = ""
         popup.destroy()
         message_to_send = message_preview.get("1.0", tk.END).strip()
         send_discord_message(webhook_url, message_to_send)
