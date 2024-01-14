@@ -13,7 +13,6 @@ import sys
 import os
 
 def resource_path(relative_path):
-    """ Get absolute path to resource, works for dev and for PyInstaller """
     base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
     return os.path.join(base_path, relative_path)
 
@@ -57,7 +56,6 @@ def on_root_click(event):
 
 
 def resource_path(relative_path):
-    """ Get absolute path to resource, works for dev and for PyInstaller """
     base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
     return os.path.join(base_path, relative_path)
 
@@ -200,7 +198,6 @@ def custom_loading_bar(label, sub_label, net_label, popup_active, duration=10):
 
 
 def center_window(win, parent, width=300, height=100):
-    """Center 'win' over 'parent' with the given 'width' and 'height'."""
     parent_x = parent.winfo_rootx()
     parent_y = parent.winfo_rooty()
     parent_width = parent.winfo_width()
@@ -365,7 +362,6 @@ def update_uplink_status():
     root.after(6000, update_uplink_status)
 
 def interpolate_color(start_color, end_color, factor: float):
-    """Interpolate between two colors."""
     start_r, start_g, start_b = start_color
     end_r, end_g, end_b = end_color
     new_r = start_r + (end_r - start_r) * factor
@@ -405,7 +401,6 @@ def create_ascii_button(parent, text, command, relx=0.5, rely=0.5):
 
 
 def resource_path(relative_path):
-    """ Get absolute path to resource, works for dev and for PyInstaller """
     base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
     return os.path.join(base_path, relative_path)
 
