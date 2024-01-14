@@ -24,7 +24,7 @@ NOTE: Because this program is packaged as a pyinstaller program & is unknown to 
 - Easy Webhook integration with Discord (work in progress).
 
 ## Screenshot(s)
-![demo](https://github.com/Huckleboard/LethalUpdateRelay/assets/135296063/8d8f5127-d1b7-41f5-9c4c-befdfc200ddb)
+![demo2](https://github.com/Huckleboard/LethalUpdateRelay/assets/135296063/6c2f50c2-2ba2-450b-a460-cbccb87c0cdd)
 
 ## Contributing
 
