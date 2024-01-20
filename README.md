@@ -4,7 +4,7 @@
 
 ## Description
 
-Lethal Update Relay is a fun application designed to provide a novel way to log your Lethal Company games to Discord. It utilizes the Python tkinter library for its user interface.
+Lethal Update Relay is a fun application designed to provide a novel way to log your Lethal Company games to Discord. It utilizes the Python tkinter library for its user interface. Not the best code, but I was having fun!
 
 ## Installation
 
