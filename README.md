@@ -13,15 +13,16 @@ To use this application, simply download the latest EXE file from the [Releases]
 ## Usage
 
 1. Run the downloaded EXE file.
-2. When prompted, input your Discord webhook URL (Note: This feature is still a work in progress).
+2. When prompted, input your Discord webhook URL. If you do not, an orange flashing message will be present.
 3. Fill out a minimum of three fields to transmit a message to your Discord server.
+If you need to change your Webhook URL, go to your Documents file, and then to "UpdateRelayData", and the webhook_url.txt file.
 
-NOTE: Because this program is packaged as a pyinstaller program & is unknown to most anti-viruses, you may get a false positive report.
+NOTE: Because this program is packaged as a pyinstaller program & is unknown to most anti-viruses, you may get a false positive report. (I am not buying the microsoft dev key/hashes/whatever)
 
 ## Features
 
 - Easy-to-use interface for logging game updates.
-- Easy Webhook integration with Discord (work in progress).
+- Easy Webhook integration with Discord.
 
 ## Screenshot(s)
 ![demo2](https://github.com/Huckleboard/LethalUpdateRelay/assets/135296063/6c2f50c2-2ba2-450b-a460-cbccb87c0cdd)
