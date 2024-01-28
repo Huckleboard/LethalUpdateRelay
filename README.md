@@ -19,6 +19,8 @@ If you need to change your Webhook URL, go to your Documents file, and then to "
 
 NOTE: Because this program is packaged as a pyinstaller program & is unknown to most anti-viruses, you may get a false positive report. (I am not buying the microsoft dev key/hashes/whatever)
 
+If you wish to build the program yourself, start by looking in the rawScript folder above.
+
 ## Features
 
 - Easy-to-use interface for logging game updates.
