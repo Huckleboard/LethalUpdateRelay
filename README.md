@@ -29,7 +29,7 @@ If you wish to build the program yourself, start by looking in the rawScript fol
 ## Screenshot(s)
 ![demo2](https://github.com/Huckleboard/LethalUpdateRelay/assets/135296063/6c2f50c2-2ba2-450b-a460-cbccb87c0cdd)
 
-![intern1](https://github.com/Huckleboard/LethalUpdateRelay/assets/135296063/646a869d-6762-4dc0-a1b7-115c10d45caa)
+![intern3](https://github.com/Huckleboard/LethalUpdateRelay/assets/135296063/630dd914-faf8-437f-9dbe-c482b2e5cc40)
 
 
 ## Contributing
