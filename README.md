@@ -41,7 +41,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Contact
 
-- Author: Huckleboard
 - GitHub: [Huckleboard](https://github.com/Huckleboard)
 
 Feel free to reach out.
